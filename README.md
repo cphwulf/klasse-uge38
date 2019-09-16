@@ -13,11 +13,23 @@ tirsdag d 17/9 - loops med Strenge
 - layout, pakker og debugger
 
 3) Nye tabelopgaver - nu med loops og test
+- øvelse 6.2
+- NumberGuess
 
-5) Yatzy
-- YatzyFirst: et slag 
 
 ----- tirsdag -----
 
 0) protokol
+
+1) NumberGuess & ComputeSum (evt som tabelopg)
+
+2) øvelse 6.2 recap
+
+3) Chars and Strings
+- print copyright (terminalen revisited)
+- AsciiArtLanguage
+
+4) Nestede loops
+- talrække 
+- figur
 
