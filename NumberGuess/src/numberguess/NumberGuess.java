@@ -5,7 +5,6 @@
  */
 package numberguess;
 
-import util.DKLang;
 import java.util.Random;
 import java.util.Scanner;
 class NumberGuess {
@@ -14,26 +13,20 @@ class NumberGuess {
      * lad brugeren indtaste et tal mellem a og b
      * lad systemet lave et tilfældigt tal mellem a og b
      * vurder om tallet er over eller under målet
-     * giv feedback til brugeren
-     * lad brugeren prøve 7 gange
+     * lad brugeren prøve til han/hun rammer
      */
-
 
   }
 
-  public static int doRand() {
+  public static int getUserGuess() {
+	  return 10;
+  }
+
+  public static int getRand() {
 	  return 10;
   }
 
   public static int doDiag() {
-	  return 10;
-  }
-
-  public static boolean doValidateUserInput(int inVal) {
-	  return true;
-  }
-
-  public static String doMath(int userGuess, int randNum) {
-	  return "hej";
+	  return 5;
   }
 }

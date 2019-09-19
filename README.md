@@ -1,35 +1,26 @@
-# Uge38: Loops and Strings
+# Uge38: Arrays
 ### 
-mandag d 16/9 - loops
-tirsdag d 17/9 - loops med Strenge
+fredag d 20/9 - Arrays
 
 
 0) Protokol
 
-1) intro til loops
-- AsciiArt og GuessNumber
+1) Recap på øvelserne
+- DrawBox
 
-2) intro til Netbeans
-- layout, pakker og debugger
+2) intro til Arrays
+- OrderFlowers (split)
 
-3) Nye tabelopgaver - nu med loops og test
-- øvelse 6.2
-- NumberGuess
+- Value and reference
 
+- javas egne metoder (java.util.Arrays)
+- ex: doMod og doMod2
 
------ tirsdag -----
-
-0) protokol
-
-1) NumberGuess & ComputeSum (evt som tabelopg)
-
-2) øvelse 6.2 recap
-
-3) Chars and Strings
-- print copyright (terminalen revisited)
-- AsciiArtLanguage
-
-4) Nestede loops
-- talrække 
-- figur
-
+3) Hands on arrays
+- fill with ints
+- search
+- compare
+- sorting (nested loops?)
+- histograms
+- anagrams
+- letterHist
