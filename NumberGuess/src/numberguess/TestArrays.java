@@ -26,7 +26,6 @@ public class TestArrays {
 
 		// 
 
-		/*
 		int[] myList;
 		myList = new int[8];
 		myList[2] = 5;
@@ -51,7 +50,6 @@ public class TestArrays {
 		System.out.println("BEF " + Arrays.toString(myList));
 		doMod2(myList);
 		System.out.println("AFTER:" +Arrays.toString(myList));
-*/
 	}
 	public static void doMod(String[] myArr) {
 		myArr[2]="Viggo";
