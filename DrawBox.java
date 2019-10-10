@@ -1,6 +1,6 @@
 class DrawBox {
   public static void main(String[] args) {
-    drawBox(6,10);
+    drawBox(6,12);
     /*
      * FORMÅL: 
      * for-loops samt parametrisere printf
