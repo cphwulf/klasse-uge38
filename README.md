@@ -1,6 +1,6 @@
 # Uge38: Arrays
 ## 
-fredag d 20/9 - Arrays
+torsdag d 20/9 - Arrays
 
 
 0) Protokol
